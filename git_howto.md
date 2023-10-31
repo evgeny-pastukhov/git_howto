@@ -29,4 +29,8 @@ git log
 ```sh
 git log --oneline
 ```
+
+Перейти к определенному состоянию директории
+```sh
 git checkout
+```
