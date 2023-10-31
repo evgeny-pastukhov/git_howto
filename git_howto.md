@@ -14,7 +14,11 @@ git status
 ```sh
 git add
 ```
+
+Сохранить состояние директории
+```sh
 git commit -m "Message"
+```
 git log
 git log --oneline
 git checkout
