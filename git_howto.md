@@ -19,6 +19,10 @@ git add
 ```sh
 git commit -m "Message"
 ```
+
+Отобразить список коммитов
+```sh
 git log
+```
 git log --oneline
 git checkout
