@@ -4,7 +4,11 @@
 ```sh
 git init
 ```
+
+Отобразить статус директории
+```sh
 git status
+```
 git add
 git commit -m "Message"
 git log
