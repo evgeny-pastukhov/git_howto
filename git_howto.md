@@ -9,7 +9,11 @@ git init
 ```sh
 git status
 ```
+
+Добавить файлы к трекингу
+```sh
 git add
+```
 git commit -m "Message"
 git log
 git log --oneline
