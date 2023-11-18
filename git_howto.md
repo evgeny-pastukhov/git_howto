@@ -32,5 +32,10 @@ git log --oneline
 
 Перейти к определенному состоянию директории
 ```sh
-git checkout <branch name>
+git checkout <имя ветки>
+```
+
+Отображение всех веток
+```sh
+git branch
 ```
