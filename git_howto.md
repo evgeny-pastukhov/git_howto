@@ -17,7 +17,7 @@ git add
 
 Сохранить состояние директории
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 
 Отобразить список коммитов
